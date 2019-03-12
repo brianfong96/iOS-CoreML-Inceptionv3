@@ -11,7 +11,7 @@ The app fetches frames from your camera at ~30 FPS and perform object recognitio
 
 ## Usage
 
-To use this app, open **iOS-CoreML-Inceptionv3.xcodeproj** in Xcode 10 and run it on a device with iOS 12. (Don't use simulator)
+To use this app, open **iOS-CoreML-Inceptionv3.xcodeproj** in Xcode 10 and run it on a device with iOS 12. (Don't use the simulator)
 
 ## Tutorial
 
